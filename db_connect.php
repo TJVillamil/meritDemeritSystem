@@ -14,7 +14,7 @@ $config = [
     'production' => [
         'servername' => "sql111.infinityfree.com",
         'username' => "if0_38858248",
-        'password' => "otensquared",
+        'password' => "",
         'dbname' => "if0_38858248_oten"
     ],
     'development' => [
